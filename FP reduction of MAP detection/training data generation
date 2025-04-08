@@ -1,7 +1,4 @@
 cd T:\Imaging\Multimodal\MRF\Peter
-% load meanMRFvalues.mat
-% load MRFstdev_voxel.mat
-load MRFvalues_withcsf.mat
 
 subjID=["PXX_XXXXX"];
 subtypes = ["IIB" "mMCD" "IIB" "mMCD"...
